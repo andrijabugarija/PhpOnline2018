@@ -10,8 +10,12 @@ $polje=array(); //prazno polje
         
 $polje1=array('tesla','bell','edison');  
 
-echo $polje1[0]; //tesla
+echo '<br>'.$polje1[0]; //tesla
 echo $polje1[1]; //bell
 echo $polje1[2]; //edison
+
+$var='andrija';
+        define('andrija,32')
+        
 
 ?>
